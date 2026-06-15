@@ -9,14 +9,15 @@
 > “In a noisy kingdom of deadlines and broken systems, I chose to forge reliable software.”
 
 I am a **Backend Developer** with a solid foundation in **Full-Stack engineering** and a strong background in **Project Management**.  
-I specialize in **TypeScript**, **Node.js (Express, NestJS)**, and **Prisma ORM**, engineering scalable REST APIs and robust database architectures using **PostgreSQL** and **MySQL**.
+Most of my craft lives in the backend — **TypeScript**, **Node.js (Express, NestJS)**, and **Prisma ORM** — where I forge scalable REST APIs and robust database architectures using **PostgreSQL** and **MySQL**.
 
-I leverage my business and marketing experience to **translate complex product requirements into secure, high-performance server-side solutions** that stay aligned with real-world impact.
+Drawing from years on the “business battlefield”, I now stand at the gate between product and engineering,  
+**translating complex requirements into secure, high-performance server-side solutions** that actually move the needle.
 
-- 🧭 Started from **Marketing Management**, then spent years in the startup battlefield  
-- 🛡 Transitioned into **Backend Development** in a full‑stack environment (TypeScript, Node.js/NestJS, React/Next.js)  
+- 🧭 Once walked the path of **Marketing Management**, then spent years in the startup battlefield  
+- 🛡 Shifted my main class into **Backend Development** in a full‑stack environment (TypeScript, Node.js/NestJS, React/Next.js)  
 - 📊 Used to grow partnership networks and improve operational efficiency — now I use that same mindset to **design APIs, data models, and system flows**  
-- 🎯 Current quest: build **scalable, maintainable backends** that actually solve problems, not just look good in demos  
+- 🎯 Current quest: build **scalable, maintainable backends** that solve real problems, not just look good in demos  
 
 ---
 
