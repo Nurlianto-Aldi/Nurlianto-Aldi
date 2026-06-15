@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Nurlianto Aldi - Backend Developer" />
+  <img src="assets/image1.png" alt="Nurlianto Aldi - Backend Developer" />
 </p>
 
 ---
@@ -110,21 +110,29 @@ Now, when I design an API or database schema, I don’t just ask “can this run
 
 ## 🪄 Magic Widgets
 
+## 🪄 Magic Widgets
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurlianto-Aldi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nurlianto-Aldi&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+    height="160"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nurlianto-Aldi&theme=tokyonight"
+    alt="GitHub streak"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurlianto-Aldi&theme=tokyonight" alt="GitHub streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlianto-Aldi&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top languages"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlianto-Aldi&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nurlianto-Aldi&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub trophies" />
-</p>
 
 ---
 
