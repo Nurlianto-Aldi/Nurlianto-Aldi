@@ -1,24 +1,211 @@
-# 💫 About Me:
-I am a Full Stack Software Engineer transitioning from Business Development and Project Management, where I led<br>initiatives that expanded partnership networks by ~30% and improved operational efficiency by 20%. My experience has<br>honed strong problem-solving, data analysis, and project management skills essential for delivering on product needs.<br>I am enhancing my skills in JavaScript/TypeScript, React, Node.js/Express, and REST APIs. With a solid business<br>background and software engineering expertise, I am eager to leverage my skills to drive impactful results and contribute<br>to creating scalable software that delivers positive outcomes for the team.
+# 🏰 Nurlianto Aldi — Full Stack Web Artisan
 
+> “In a noisy kingdom of deadlines and broken systems, I chose to forge reliable software.”
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurliantoaldi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nurlianto_aldi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurlianto-aldi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nurliantoaldi@gmail.com) 
+I am a **Full Stack Software Engineer** who once walked the path of **Business Development & Project Management**.  
+Now I combine that experience to craft systems that are not only clean in code, but also **aligned with real business needs**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nurlianto-Aldi&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nurlianto-Aldi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlianto-Aldi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nurlianto-Aldi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🧭 Started from **Marketing Management**, then spent years in the startup battlefield  
+- 🛡 Transitioned into **Backend & Web Development** (TypeScript, React/Next.js, Node.js/NestJS)  
+- 📊 Used to grow partnership networks and improve operational efficiency — now I use that mindset to **design APIs, data models, and system flows**  
+- 🎯 Current quest: build **scalable, maintainable products** that actually solve problems, not just look pretty on the surface  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nurlianto-Aldi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚔ Tech Arsenal
+
+**Front-end Spells**
+
+- React.js / Next.js (App Router)  
+- TypeScript  
+- Tailwind CSS  
+
+**Back-end Forgery**
+
+- Node.js, Express, NestJS  
+- RESTful APIs, authentication (JWT), guards & middleware  
+- Prisma ORM  
+
+**Databases & Relics**
+
+- PostgreSQL  
+- Deployment with Vercel, Render, and friends  
+- Docker for containerized deployments  
+
+**Utility Tools**
+
+- Git & GitHub  
+- API documentation (Swagger / OpenAPI)  
+- Cloud storage for media handling  
+
+---
+
+## 📜 Active Quests (Selected Projects)
+
+### ⚔️ Evenia — Community Event Platform (Backend, WIP)
+
+A platform for **community events** (book club, running group, etc.), focused on discoverability and social interaction.
+
+- Backend: **NestJS + TypeScript + PostgreSQL + Prisma**  
+- Authentication with JWT + password hashing  
+- Media upload & storage via object storage service  
+- Features: event creation, social interaction module (companion request, event attendees validation), API documentation
+
+> Role: Backend Engineer — system design, API development, and deployment
+
+---
+
+### 📓 Djournal-List — Minimalist Dev Journal (MVP)
+
+A minimalist journal app for developers to keep a **daily log** of their progress without distractions.
+
+- Built with a modern React/Next.js stack  
+- Focus on simple UX and clean layout  
+- Structured around a “logbook” style for tracking work and reflections  
+
+> Role: Full Stack — from idea, UI structure, to implementation
+
+---
+
+### 🌱 Kartijah Firdaus Foundation — Organization Website
+
+A website for a non-profit foundation, focused on clarity of information and ease of navigation.
+
+- Clean, informative layout for programs, activities, and contact  
+- Designed to be trustworthy and easy to maintain  
+
+> Role: Web Developer — translating organizational needs into a clear web structure
+
+---
+
+## 🧭 Journey: From Marketplace to Code Forge
+
+Before writing code, I worked in:
+
+- Business Development & Project Management  
+- Research & strategic roles in foundations and organizations  
+
+From there I learned to:
+
+- Turn **vague requirements** into **concrete plans and systems**  
+- Communicate with non-technical stakeholders  
+- Think in terms of **impact, scalability, and sustainability**
+
+Now, when I design an API or database schema, I don’t just think “can this run?”, but also  
+“**does this really solve the user’s problem and help the business?**”.
+
+---
+
+## 📨 Summon Me
+
+- 📍 Bandung, Indonesia  
+- 🌐 Portfolio: [nurlianto-aldi.vercel.app](https://nurlianto-aldi.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/nurlianto-aldi](https://linkedin.com/in/nurlianto-aldi)  
+- 📬 Email: **nurliantoaldi@gmail.com**
+
+> Open to quests as **Backend / Full Stack Engineer** — especially where product, business, and engineering need to speak the same language.# 🏰 Nurlianto Aldi — Full Stack Web Artisan
+
+> “In a noisy kingdom of deadlines and broken systems, I chose to forge reliable software.”
+
+I am a **Full Stack Software Engineer** who once walked the path of **Business Development & Project Management**.  
+Now I combine that experience to craft systems that are not only clean in code, but also **aligned with real business needs**.
+
+- 🧭 Started from **Marketing Management**, then spent years in the startup battlefield  
+- 🛡 Transitioned into **Backend & Web Development** (TypeScript, React/Next.js, Node.js/NestJS)  
+- 📊 Used to grow partnership networks and improve operational efficiency — now I use that mindset to **design APIs, data models, and system flows**  
+- 🎯 Current quest: build **scalable, maintainable products** that actually solve problems, not just look pretty on the surface  
+
+---
+
+## ⚔ Tech Arsenal
+
+**Front-end Spells**
+
+- React.js / Next.js (App Router)  
+- TypeScript  
+- Tailwind CSS  
+
+**Back-end Forgery**
+
+- Node.js, Express, NestJS  
+- RESTful APIs, authentication (JWT), guards & middleware  
+- Prisma ORM  
+
+**Databases & Relics**
+
+- PostgreSQL  
+- Deployment with Vercel, Render, and friends  
+- Docker for containerized deployments  
+
+**Utility Tools**
+
+- Git & GitHub  
+- API documentation (Swagger / OpenAPI)  
+- Cloud storage for media handling  
+
+---
+
+## 📜 Active Quests (Selected Projects)
+
+### ⚔️ Evenia — Community Event Platform (Backend, WIP)
+
+A platform for **community events** (book club, running group, etc.), focused on discoverability and social interaction.
+
+- Backend: **NestJS + TypeScript + PostgreSQL + Prisma**  
+- Authentication with JWT + password hashing  
+- Media upload & storage via object storage service  
+- Features: event creation, social interaction module (companion request, event attendees validation), API documentation
+
+> Role: Backend Engineer — system design, API development, and deployment
+
+---
+
+### 📓 Djournal-List — Minimalist Dev Journal (MVP)
+
+A minimalist journal app for developers to keep a **daily log** of their progress without distractions.
+
+- Built with a modern React/Next.js stack  
+- Focus on simple UX and clean layout  
+- Structured around a “logbook” style for tracking work and reflections  
+
+> Role: Full Stack — from idea, UI structure, to implementation
+
+---
+
+### 🌱 Kartijah Firdaus Foundation — Organization Website
+
+A website for a non-profit foundation, focused on clarity of information and ease of navigation.
+
+- Clean, informative layout for programs, activities, and contact  
+- Designed to be trustworthy and easy to maintain  
+
+> Role: Web Developer — translating organizational needs into a clear web structure
+
+---
+
+## 🧭 Journey: From Marketplace to Code Forge
+
+Before writing code, I worked in:
+
+- Business Development & Project Management  
+- Research & strategic roles in foundations and organizations  
+
+From there I learned to:
+
+- Turn **vague requirements** into **concrete plans and systems**  
+- Communicate with non-technical stakeholders  
+- Think in terms of **impact, scalability, and sustainability**
+
+Now, when I design an API or database schema, I don’t just think “can this run?”, but also  
+“**does this really solve the user’s problem and help the business?**”.
+
+---
+
+## 📨 Summon Me
+
+- 📍 Bandung, Indonesia  
+- 🌐 Portfolio: [nurlianto-aldi.vercel.app](https://nurlianto-aldi.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/nurlianto-aldi](https://linkedin.com/in/nurlianto-aldi)  
+- 📬 Email: **nurliantoaldi@gmail.com**
+
+> Open to quests as **Backend / Full Stack Engineer** — especially where product, business, and engineering need to speak the same language.
