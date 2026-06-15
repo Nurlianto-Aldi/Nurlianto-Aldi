@@ -110,8 +110,6 @@ Now, when I design an API or database schema, I don’t just ask “can this run
 
 ## 🪄 Magic Widgets
 
-## 🪄 Magic Widgets
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Nurlianto-Aldi&show_icons=true&theme=tokyonight"
@@ -123,15 +121,13 @@ Now, when I design an API or database schema, I don’t just ask “can this run
     alt="GitHub streak"
     height="160"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlianto-Aldi&layout=compact&theme=tokyonight&langs_count=8"
     alt="Top languages"
-    width="100%"
+    height="160"
   />
 </p>
+
 
 
 ---
