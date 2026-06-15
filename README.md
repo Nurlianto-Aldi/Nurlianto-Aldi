@@ -128,8 +128,6 @@ Now, when I design an API or database schema, I don’t just ask “can this run
   />
 </p>
 
-
-
 ---
 
 ## 📨 Summon Me
