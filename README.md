@@ -1,6 +1,114 @@
 <p align="center">
-  <img src="assets/image1.png" alt="Nurlianto Aldi - Full Stack Web Artisan" />
+  <img src="assets/banner.png" alt="Nurlianto Aldi - Backend Developer" />
 </p>
+
+---
+
+# 🏰 Nurlianto Aldi — Backend Developer
+
+> “In a noisy kingdom of deadlines and broken systems, I chose to forge reliable software.”
+
+I am a **Backend Developer** with a solid foundation in **Full-Stack engineering** and a strong background in **Project Management**.  
+I specialize in **TypeScript**, **Node.js (Express, NestJS)**, and **Prisma ORM**, engineering scalable REST APIs and robust database architectures using **PostgreSQL** and **MySQL**.
+
+I leverage my business and marketing experience to **translate complex product requirements into secure, high-performance server-side solutions** that stay aligned with real-world impact.
+
+- 🧭 Started from **Marketing Management**, then spent years in the startup battlefield  
+- 🛡 Transitioned into **Backend Development** in a full‑stack environment (TypeScript, Node.js/NestJS, React/Next.js)  
+- 📊 Used to grow partnership networks and improve operational efficiency — now I use that same mindset to **design APIs, data models, and system flows**  
+- 🎯 Current quest: build **scalable, maintainable backends** that actually solve problems, not just look good in demos  
+
+---
+
+## ⚔ Tech Arsenal
+
+**Backend Forgery**
+
+- Node.js, Express.js, NestJS  
+- TypeScript, JavaScript (ES6+)  
+- RESTful APIs, JWT authentication, bcrypt, RBAC  
+- Hexagonal Architecture, Microservices, MVC  
+- Prisma ORM, Redis  
+
+**Data & Infrastructure Relics**
+
+- PostgreSQL, MySQL  
+- Docker & containerization  
+- Deployment with Neon, Koyeb, Render, Vercel  
+
+**Front-end Spells**
+
+- Next.js, React.js  
+- Tailwind CSS, Vite  
+- HTML5, CSS3  
+
+**Utility Tools**
+
+- Git & GitHub  
+- Swagger / OpenAPI, Postman, pgAdmin  
+- Linux environments, CI/CD pipelines  
+- Figma for basic UI collaboration  
+
+---
+
+## 📜 Active Quests (Selected Projects)
+
+### ⚔️ Evenia — Event Management Platform (Backend Developer, Personal Project)
+
+A platform for **community events** (book clubs, running groups, etc.) with a focus on discoverability and social interaction.
+
+- Adopted an **API‑First Approach** with Swagger to define contracts early and unblock frontend work  
+- Built a modular backend with **NestJS + TypeScript** and **PostgreSQL** using **Prisma ORM**  
+- Modeled 10+ interconnected entities (events, invitations, attendees, etc.) to support multi‑user flows  
+- Designed as a scalable MVP with clear separation of concerns to reduce new feature integration time  
+
+> Role: Backend Developer — system design, API engineering, database modeling, and deployment
+
+---
+
+### 📓 Djournal-list.com — Digital Bullet Journal (Backend Developer, Personal Project)
+
+A **digital bullet journal** that lets users keep a daily log of their progress with a clean, distraction‑free interface.
+
+- Architected a RESTful API using **Node.js + Express.js** with **JWT auth** and **bcrypt** encryption  
+- Engineered a **Guest‑to‑Authenticated** mechanism to keep 100% of user data when they upgrade from local to registered accounts  
+- Implemented **Background Data Synchronization** and Optimistic UI support to mask backend latency and keep perceived response times under 100ms  
+
+> Role: Backend Developer — API design, authentication flow, and data consistency mechanisms
+
+---
+
+### 🌱 Kartijah Firdaus Foundation — Web Portal & CMS (Backend Developer, Professional Experience)
+
+An enterprise‑grade web portal and custom CMS for a non‑profit foundation, focused on credibility and operational efficiency.
+
+- Built a backend with **NestJS + TypeScript** integrated into a **Next.js** frontend  
+- Implemented strict **RBAC** security and Dockerized deployment, resolving database pooling issues to reach **99.9% availability** on Render  
+- Streamlined internal content workflows, reducing publishing time by ~40%  
+
+> Role: Backend Developer (Full‑Stack Environment) — platform architecture, integrations, and performance tuning
+
+---
+
+## 🧭 Journey: From Marketplace to Code Forge
+
+Before writing code, I worked in:
+
+- **Project Management & Business Development** (non‑profit and social impact organizations)  
+- **Research & strategic roles**, coordinating with multiple stakeholders  
+
+From there I learned to:
+
+- Turn **vague requirements** into **clear systems and actionable tasks**  
+- Communicate with non‑technical stakeholders while still protecting technical boundaries  
+- Think in terms of **impact, scalability, sustainability, and constraints**
+
+Now, when I design an API or database schema, I don’t just ask “can this run?”, but:  
+**“does this solve the user’s problem and move the business forward?”**
+
+---
+
+## 🪄 Magic Widgets
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nurlianto-Aldi&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -13,108 +121,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlianto-Aldi&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
-
----
-
-# 🏰 Nurlianto Aldi — Full Stack Web Artisan
-
-> “In a noisy kingdom of deadlines and broken systems, I chose to forge reliable software.”
-
-I am a **Full Stack Software Engineer** who once walked the path of **Business Development &amp; Project Management**.  
-Now I combine that experience to craft systems that are not only clean in code, but also **aligned with real business needs**.
-
-- 🧭 Started from **Marketing Management**, then spent years in the startup battlefield  
-- 🛡 Transitioned into **Backend &amp; Web Development** (TypeScript, React/Next.js, Node.js/NestJS)  
-- 📊 Used to grow partnership networks and improve operational efficiency — now I use that mindset to **design APIs, data models, and system flows**  
-- 🎯 Current quest: build **scalable, maintainable products** that actually solve problems, not just look pretty on the surface  
-
----
-
-## ⚔ Tech Arsenal
-
-**Front-end Spells**
-
-- React.js / Next.js (App Router)  
-- TypeScript  
-- Tailwind CSS  
-
-**Back-end Forgery**
-
-- Node.js, Express, NestJS  
-- RESTful APIs, authentication (JWT), guards &amp; middleware  
-- Prisma ORM  
-
-**Databases &amp; Relics**
-
-- PostgreSQL  
-- Deployment with Vercel, Render, and friends  
-- Docker for containerized deployments  
-
-**Utility Tools**
-
-- Git &amp; GitHub  
-- API documentation (Swagger / OpenAPI)  
-- Cloud storage for media handling  
-
----
-
-## 📜 Active Quests (Selected Projects)
-
-### ⚔️ Evenia — Community Event Platform (Backend, WIP)
-
-A platform for **community events** (book club, running group, etc.), focused on discoverability and social interaction.
-
-- Backend: **NestJS + TypeScript + PostgreSQL + Prisma**  
-- Authentication with JWT + password hashing  
-- Media upload &amp; storage via object storage service  
-- Features: event creation, social interaction module (companion request, event attendees validation), API documentation  
-
-> Role: Backend Engineer — system design, API development, and deployment
-
----
-
-### 📓 Djournal-List — Minimalist Dev Journal (MVP)
-
-A minimalist journal app for developers to keep a **daily log** of their progress without distractions.
-
-- Built with a modern React/Next.js stack  
-- Focus on simple UX and clean layout  
-- Structured around a “logbook” style for tracking work and reflections  
-
-> Role: Full Stack — from idea, UI structure, to implementation
-
----
-
-### 🌱 Kartijah Firdaus Foundation — Organization Website
-
-A website for a non-profit foundation, focused on clarity of information and ease of navigation.
-
-- Clean, informative layout for programs, activities, and contact  
-- Designed to be trustworthy and easy to maintain  
-
-> Role: Web Developer — translating organizational needs into a clear web structure
-
----
-
-## 🧭 Journey: From Marketplace to Code Forge
-
-Before writing code, I worked in:
-
-- Business Development &amp; Project Management  
-- Research &amp; strategic roles in foundations and organizations  
-
-From there I learned to:
-
-- Turn **vague requirements** into **concrete plans and systems**  
-- Communicate with non-technical stakeholders  
-- Think in terms of **impact, scalability, and sustainability**  
-
-Now, when I design an API or database schema, I don’t just think “can this run?”, but also  
-“**does this really solve the user’s problem and help the business?**”.
-
----
-
-## 🪄 Magic Widgets
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nurlianto-Aldi&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub trophies" />
@@ -129,4 +135,4 @@ Now, when I design an API or database schema, I don’t just think “can this r
 - 💼 LinkedIn: [linkedin.com/in/nurlianto-aldi](https://linkedin.com/in/nurlianto-aldi)  
 - 📬 Email: **nurliantoaldi@gmail.com**  
 
-> Open to quests as **Backend / Full Stack Engineer** — especially where product, business, and engineering need to speak the same language.
+> Open to quests as **Backend Developer** (and Full‑Stack roles where backend is the main battleground).
